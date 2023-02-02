@@ -78,27 +78,10 @@ header{
     background-repeat: no-repeat;
     background-size: 20px 20px;
 }
-.header-calc-link{
-    position: absolute;
-    right: 0px;
-    margin-top: 10%;
-}
 
-.reviews-content{
-    padding: 50px 0px;
+.btn{
+    background-color: red;
 }
 
 
-.review{
-    height: 500px;
-    width: 33%;
-    overflow:hidden;
-    position:relative;
-}
-.review-frame{
-    height: 100%;
-    width: 100%;
-    border:1px solid #e6e6e6;
-    border-radius:8px;
-    box-sizing:border-box;
-}
+
