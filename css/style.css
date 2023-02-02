@@ -8,7 +8,9 @@ html, body {
     height: 100%;
 }
 
-
+body{
+    background-color: #515151;
+}
 
 .btn{
     background-color: red;
